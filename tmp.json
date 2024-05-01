@@ -7,29 +7,25 @@
         },
         {
             "@type": "siibra/attr/meta/regionspec",
-            "name": "Area 7P (SPL)"
+            "name": "Area FG3 (FusG)"
         },
         {
             "@type": "siibra/attr/meta/ebrains",
             "ids": {
                 "minds/core/species/v1.0.0": "0ea4e6ba-2681-4f7d-9fa9-49b915caaac9",
                 "openminds/Species": "97c070c6-8e1f-4ee8-9d28-18c7945921dd",
-                "openminds/Dataset": "af8220eb-f7e2-4716-a865-af9b3104f614",
-                "openminds/DatasetVersion": "20c510ae-938a-4ef5-bcc6-d6724e2f6d01"
+                "openminds/Dataset": "5f2e4084-0e02-4942-a223-b16abb16d676",
+                "openminds/DatasetVersion": "dae2408a-95d0-4f63-ab37-f0756dff4720"
             }
         },
         {
             "@type": "siibra/attr/meta/point",
             "space_id": "minds/core/referencespace/v1.0.0/a1655b99-82f1-420f-a3c2-fe80fd4c8588",
             "coordinate": [
-                2.3991611003875732,
-                -41.5,
-                40.192161560058594
+                31.157440185546875,
+                -27.700000762939453,
+                -2.2693331241607666
             ]
-        },
-        {
-            "@type": "siibra/attr/data/layerboundary",
-            "url": "https://object.cscs.ch/v1/AUTH_227176556f3c4bb38df9feea4b91200c/hbp-d000061_BB-CorticalCellDistribution_pub/SPL_7P/v1.0/1426/0002/"
         },
         {
             "@type": "siibra/attr/data/tabular",
@@ -45,7 +41,7 @@
                     "label"
                 ]
             },
-            "url": "https://object.cscs.ch/v1/AUTH_227176556f3c4bb38df9feea4b91200c/hbp-d000061_BB-CorticalCellDistribution_pub/SPL_7P/v1.0/1426/0002/segments.txt",
+            "url": "https://object.cscs.ch/v1/AUTH_227176556f3c4bb38df9feea4b91200c/hbp-d000061_BB-CorticalCellDistribution_pub/Visual_FG3/v1.0/2116/0002/segments.txt",
             "x-siibra/celldensityprofile": "segments"
         },
         {
@@ -61,12 +57,12 @@
                     "AvgThickness(micron)"
                 ]
             },
-            "url": "https://object.cscs.ch/v1/AUTH_227176556f3c4bb38df9feea4b91200c/hbp-d000061_BB-CorticalCellDistribution_pub/SPL_7P/v1.0/1426/0002/layerinfo.txt",
+            "url": "https://object.cscs.ch/v1/AUTH_227176556f3c4bb38df9feea4b91200c/hbp-d000061_BB-CorticalCellDistribution_pub/Visual_FG3/v1.0/2116/0002/layerinfo.txt",
             "x-siibra/celldensityprofile": "layerinfo"
         },
         {
             "@type": "x-siibra/celldensityprofile",
-            "section": "1426",
+            "section": "2116",
             "patch": "0002"
         }
     ]
